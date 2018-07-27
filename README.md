@@ -1,2 +1,2 @@
 # MultithreadingAssignment
-Multithreading Collision Assignment using TL-Engine
+Multithreaded Collision Assignment using TL-Engine
